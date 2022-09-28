@@ -91,7 +91,7 @@
     <string name="transaction_succeeded">Transaction successful</string>
     <string name="NA">N/A</string>
     <string name="error_wallet_not_selected">Wallet is not selected</string>
-    <string name="no_transactions_yet">Activities will appear here</string>
+    <string name="no_transactions_yet">Activities will appear here for token</string>
     <string name="unknown_balance_without_symbol" translatable="false">--</string>
     <string name="dummy_transaction_value" translatable="false">&#45;&#45;</string>
     <string name="title_dialog_sending">Sending…</string>
@@ -106,7 +106,7 @@
     <string name="error_fail_load_tokens">Failed to load tokens list</string>
     <string name="error_create_wallet">Failed to create a wallet</string>
 
-    <string name="app_name" translatable="false">IndooWallet</string>
+    <string name="app_name" translatable="false">MotoranWallet</string>
     <string name="all">All</string>
     <string name="currency">Currencies</string>
     <string name="advanced">Advanced Options</string>
@@ -116,6 +116,7 @@
     <string name="hint_contract_venue">Venue</string>
     <string name="hint_contract_date">Date</string>
     <string name="hint_contract_price">Price</string>
+    <string name="add_custom_token">Add Custom Token</string>
     <!-- Price -->
     <string name="action_use">Redeem</string>
     <string name="action_sell">Sell</string>

@@ -88,7 +88,7 @@ android {
         versionCode 202
         versionName "3.58.3"
 
-        applicationId "io.indoo.wallet"
+        applicationId "io.motoran.wallet"
         minSdkVersion 23
         targetSdkVersion 32
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
