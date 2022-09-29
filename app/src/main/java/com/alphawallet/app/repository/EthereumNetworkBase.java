@@ -168,7 +168,7 @@ public abstract class EthereumNetworkBase implements EthereumNetworkRepositoryTy
     public static final String ARTIS_TAU1_RPC_URL = "https://rpc.tau1.artis.network";
     public static final String BINANCE_TEST_RPC_URL = "https://data-seed-prebsc-1-s3.binance.org:8545";
     public static final String BINANCE_TEST_FALLBACK_RPC_URL = "https://data-seed-prebsc-2-s1.binance.org:8545";
-    public static final String BINANCE_MAIN_RPC_URL = "https://bsc-dataseed.binance.org";
+    public static final String BINANCE_MAIN_RPC_URL = "https://responsive-rough-wish.bsc.discover.quiknode.pro/b027edfd254533bc0752abef50b65f4bfe592275/";
     public static final String BINANCE_MAIN_FALLBACK_RPC_URL = "https://bsc-dataseed2.ninicoin.io:443";
     public static final String HECO_RPC_URL = "https://http-mainnet.hecochain.com";
     public static final String HECO_TEST_RPC_URL = "https://http-testnet.hecochain.com";
