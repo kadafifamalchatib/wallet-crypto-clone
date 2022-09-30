@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/cozy_20"
-            android:src="@drawable/moto_logo_v" />
+            android:src="@drawable/ic_launcher" />
 
         <TextView
             android:id="@+id/no_recent_transactions_subtext"

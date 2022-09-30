@@ -66,6 +66,7 @@ public class Steps
     public static void navigateToBrowser()
     {
         click(withId(R.id.nav_browser_text));
+
     }
 
     public static void selectTestNet(String name)
